@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bagrelius
+- 👋 Hi, I’m @bagrelius a Computer Science Graduate from Seattle University
 - 👀 I throughly enjoy the technical work. Although challenging, I think the better we understand the small details the better we understand how to solve problems
 - 🌱 I’m currently to trying to learn Angular, Node.js, Bootstrap, and Typescript to make a application for orderering food (It gets boring eating the same thing all the time)
 - 📫 How to reach me: benagrelius@gmail.com
