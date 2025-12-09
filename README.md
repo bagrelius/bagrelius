@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-* **Profession/Background:** Computer Science Graduate w.
+* **Profession/Background:** Software Developer 1
 * **What I Enjoy:** I thoroughly enjoy the technical work. Although challenging, I believe the better we understand the small details, the better we understand how to solve complex problems.
 * **Currently learning/focused on:** Reverse Engineering and deconstructing malware using python
 
